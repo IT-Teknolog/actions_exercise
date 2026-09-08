@@ -4,4 +4,4 @@ jobs:
     say_hello:
         runs-on: ubuntu-latest
         steps:
-            - run: ehco "Hello World!"
+            - run: echo "Hello World!"
