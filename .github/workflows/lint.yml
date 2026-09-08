@@ -6,6 +6,6 @@ jobs:
         steps:
         - uses: astral-sh/ruff-action@v4.1.0
           with:
-            src: "../../my_file.py"
+            src: "./my_file.py"
 
  
